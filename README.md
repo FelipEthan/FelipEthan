@@ -2,19 +2,19 @@
 
 ## Acerca de mí
 
-Soy un ingeniero de aseguramiento de calidad (QA) apasionado por garantizar que los productos de software sean de la más alta calidad. Con una sólida formación en **Java** y una fuerte inclinación hacia la **automatización de pruebas**, me esfuerzo por mejorar continuamente mis habilidades y contribuir a proyectos que impulsen la excelencia en el desarrollo de software.
+Soy un ingeniero de aseguramiento de calidad (QA) apasionado por garantizar que los productos de software sean de la más alta calidad. Con conocimientos en lenguaje **Java** y una fuerte inclinación hacia la **automatización de pruebas**, me esfuerzo por mejorar continuamente mis habilidades y contribuir a proyectos que impulsen la excelencia en el desarrollo de software.
 
 ## Intereses
 
 - **Automatización de QA**: Me interesa profundamente la automatización de pruebas para mejorar la eficiencia y la cobertura de las pruebas. 🤖
 - **Lenguajes de Programación**: Principalmente trabajo con **Java**, pero también estoy explorando otros lenguajes y herramientas para expandir mis conocimientos. 💻
-- **Herramientas de Automatización**: Me encanta trabajar con herramientas como Selenium, JUnit, TestNG, y más. 🛠️
+- **Herramientas de Automatización**: Me encanta trabajar con herramientas como Selenium, JUnit, Cucumber, y más. 🛠️
 
 ## Actualmente aprendiendo
 
-- **Frameworks de Automatización Avanzados**: Profundizando en herramientas como Cucumber y Appium. 📚
-- **Pruebas de Rendimiento**: Explorando herramientas como JMeter y Gatling. ⏱️
-- **Desarrollo de Habilidades DevOps**: Integrando pruebas automatizadas en pipelines de CI/CD utilizando Jenkins, GitLab CI, etc. 🔄
+- **Frameworks de Automatización Avanzados**: Profundizando en herramientas como Selenium, Cucumber y POM. 📚
+- **Pruebas de Rendimiento**: Explorando herramientas como JMeter. ⏱️
+- **Desarrollo de Habilidades DevOps**: Integrando pruebas automatizadas en pipelines de CI/CD utilizando Jenkins 🔄
 
 ## Busco colaborar en
 
@@ -30,10 +30,5 @@ Soy un ingeniero de aseguramiento de calidad (QA) apasionado por garantizar que 
 ## Pronombres
 
 - **Él/Él** 👨‍💼
-
-## Dato curioso
-
-- **⚡ Dato curioso**: Soy un gran aficionado a los rompecabezas y a los juegos de lógica, lo que me ayuda a mantener mis habilidades de resolución de problemas agudas y enfocadas. ¡Me encanta descubrir cómo funcionan las cosas y encontrar maneras de mejorarlas! 🧩
-
 ¡Gracias por visitar mi perfil! 😊
 
