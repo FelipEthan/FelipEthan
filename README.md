@@ -1,4 +1,4 @@
-# 👋 Hola, soy @FelipEthan
+# 👋 Hola, soy @Felipe
 
 ## Acerca de mí
 
