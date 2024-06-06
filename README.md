@@ -24,9 +24,8 @@ Soy un ingeniero de aseguramiento de calidad (QA) apasionado por garantizar que 
 
 ## Cómo contactarme
 
-- **Correo Electrónico**: [felipethan@example.com](mailto:felipethan@example.com) ✉️
-- **LinkedIn**: [linkedin.com/in/felipethan](https://linkedin.com/in/felipethan) 🔗
-- **Twitter**: [@FelipEthanQA](https://twitter.com/FelipEthanQA) 🐦
+- **Correo Electrónico**: [andrestyle.21@hotmail,com](mailto:felipethan@example.com) ✉️
+- **LinkedIn**: [[linkedin.com/in/felipethan](https://www.linkedin.com/in/af-quimbayo/) 🔗
 
 ## Pronombres
 
